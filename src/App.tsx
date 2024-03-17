@@ -1,4 +1,4 @@
-import OnChangeRadioInput from './components/task/OnChangeRadioInput';
+import OnChangeRadioInput from './components/task/RadioInputRating';
 
 function App() {
   return (
